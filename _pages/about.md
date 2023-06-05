@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Currently I am a PhD student at [ISTA](https://ist.ac.at/en/home/). I am very fortunate to be supervised by Professor [Marco Mondelli](http://marcomondelli.com/).
 My current research interests are
-- High-Dimensional Non-Convex Optimization, for example neural networks trained with GD
-- High-Dimensional Inference, in particular, for example AMP algorithms
+- High-Dimensional Non-Convex Optimization (neural networks trained with GD)
+- High-Dimensional Inference (AMP algorithms)
 
 Before joining ISTA I obtained a bachelors and masters in mathematics at [LMU Munich](https://www.lmu.de/en/).
 During my master thesis I was supervised by Professor [Phan Thành Nam](https://www.math.lmu.de/~nam/).
