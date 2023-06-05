@@ -19,16 +19,16 @@ social: true  # includes social icons at the bottom of the page
 ---
 Currently I am a PhD student at [ISTA](https://ist.ac.at/en/home/). I am very fortunate to be supervised by Professor [Marco Mondelli](http://marcomondelli.com/).
 My current research interests are
-- High-Dimensional Non-Convex Optimization
+- High-Dimensional Non-Convex Optimization, in particular, analysis of neural networks trained with GD
 - High-Dimensional Inference, in particular, AMP algorithms
 
-Before joining ISTA I obtained my bachelors and masters of mathematics at [LMU Munich](https://www.lmu.de/en/).
+Before joining ISTA I obtained a bachelors and masters in mathematics at [LMU Munich](https://www.lmu.de/en/).
 During my master thesis I was supervised by Professor [Phan Thành Nam](https://www.math.lmu.de/~nam/).
 
 
 Outside of research I also enjoy
 - cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
-- mindfulness meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for a good introduction to zen meditation
+- yoge and specifically meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for a good introduction to zen meditation
 - reading (and writing) fantasy and watching anime
-- learning about human psychology (for example [this series of lectures](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D))
+
 
