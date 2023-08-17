@@ -28,7 +28,7 @@ During my master thesis I was supervised by Professor [Phan Thành Nam](https://
 
 Outside of research I also enjoy
 - cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
-- yoga and specifically meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for a good introduction to zen meditation
+- yoga and specifically meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for an introduction to zen meditation
 - reading (and writing) fantasy and watching anime
 
 
