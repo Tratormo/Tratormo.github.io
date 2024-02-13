@@ -27,8 +27,12 @@ During my master thesis I was supervised by Professor [Phan Thành Nam](https://
 
 
 Outside of research I also enjoy
-- cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
-- yoga and specifically meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for an introduction to zen meditation
-- reading (and writing) fantasy and watching anime
+- researching and implementing protocols to optimize physical and mental health, as well as performance:
+  - cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
+  - yoga with a focus on meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for an introduction to zen meditation and [here](https://www.amazon.com/Systematic-Course-Ancient-Tantric-Techniques/dp/8185787085) for a complete yoga system
+  - red light, see [here](https://www.hubermanlab.com/episode/using-light-sunlight-blue-light-and-red-light-to-optimize-health) for an introductory discussion
+  - extended water fasts, these [books](https://waterfasting.org/shop-online-course-videos-pdf/) are a good starting point
+- reading and writing fantasy
+- learning about the human psyche from psychotherapists 
 
 
