@@ -27,12 +27,8 @@ During my master thesis I was supervised by Professor [Phan Thành Nam](https://
 
 
 Outside of research I also enjoy
-- researching and implementing protocols for physical and mental health:
-  - cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
-  - yoga with a focus on meditation, see [here](https://www.youtube.com/watch?v=LL2XUTeoUsM) for an introduction to zen meditation and [here](https://www.amazon.com/Systematic-Course-Ancient-Tantric-Techniques/dp/8185787085) for a complete yoga system
-  - red light, see [here](https://www.hubermanlab.com/episode/using-light-sunlight-blue-light-and-red-light-to-optimize-health) for an introductory discussion
-  - extended water fasts, these [books](https://waterfasting.org/shop-online-course-videos-pdf/) are a good starting point
-- reading and writing fantasy
-- learning about the human psyche from psychotherapists 
+- cold training, see [here](https://www.youtube.com/watch?v=pq6WHJzOkno) for some interesting science
+- yoga with a focus on meditation, see [here](https://www.amazon.com/Systematic-Course-Ancient-Tantric-Techniques/dp/8185787085) for a complete system
+- reading and writing fantasy as well as incorperating AI tools in the creative process
 
 
